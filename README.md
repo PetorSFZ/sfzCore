@@ -1,3 +1,5 @@
+# THIS LIBRARY HAS MOVED TO [`sfz_tech`](https://github.com/PetorSFZ/sfz_tech)
+
 # sfzCore
 
 sfzCore is a base library for most Skipifzero applications, replacing the now deprecated SkipIfZero Common library. It aims to provide high quality common components, while still keeping code bloat to a minimum. Among other things sfzCore contains:
